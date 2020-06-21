@@ -39,7 +39,7 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: "List oscars for an actor,director etc..."
+          content: "List oscars for an actor,director etc."
         }
       ]
     };
